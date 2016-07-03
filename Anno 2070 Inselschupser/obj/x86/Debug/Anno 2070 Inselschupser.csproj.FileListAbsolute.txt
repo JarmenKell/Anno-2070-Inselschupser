@@ -1,0 +1,16 @@
+c:\users\benny\documents\visual studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\bin\Debug\Anno 2070 Inselschupser.exe
+c:\users\benny\documents\visual studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\bin\Debug\Anno 2070 Inselschupser.pdb
+c:\users\benny\documents\visual studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno_2070_Inselschupser.Properties.Resources.resources
+c:\users\benny\documents\visual studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.exe
+c:\users\benny\documents\visual studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.pdb
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno_2070_Inselschupser.Editor.resources
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.exe
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.pdb
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\bin\Debug\Anno 2070 Inselschupser.exe
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\bin\Debug\Anno 2070 Inselschupser.pdb
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.csprojResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno_2070_Inselschupser.Editor.resources
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno_2070_Inselschupser.Properties.Resources.resources
+C:\Users\Benny\Documents\Visual Studio 2012\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.csproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.csprojResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 Inselschupser\Anno 2070 Inselschupser\obj\x86\Debug\Anno 2070 Inselschupser.csproj.GenerateResource.Cache
